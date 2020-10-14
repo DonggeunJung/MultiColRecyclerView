@@ -1,5 +1,5 @@
 # MultiColRecyclerView
-[Android] Multi Column on RecyclerView using GridLayoutManager
+[Android] Multi Column on RecyclerView using GridLayoutManager & Base Class of Adapter.
 
 
 
